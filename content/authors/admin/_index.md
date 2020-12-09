@@ -1,52 +1,54 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Adrian Paskey
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: ORISE Postdoctoral Fellow in Bioinformatics & Diagnostics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: CDC Division of Vector-Borne Diseases
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Emerging infectious diseases and genomics researcher
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Emerging Infectious Diseases
+- Metagenomics
+- Biosurveillance
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#experiences:
+#- how to format?
+
+
+education:
+  courses:
+  - course: PhD in Emerging Infectious Diseases
+    institution: Uniformed Services University of the Health Sciences
+    year: 2020
+  - course: B.S. in Biological Sciences and Health Professions
+    institution: The Pennsylvania State University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
+  link: https://twitter.com/friendorfomite
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=fYQPVQ0AAAAJ&hl=en&oi=ao 
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/apaskey/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,9 +56,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "adrianpaskey@gmail.com"
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a postdoc working in microbial genomics at the CDC's Division of Vector-Borne Diseases in Fort Collins, Colorado. My research interests include emerging infectious diseases, metagenomics, and biosurveillance. I am particularly fascinated by the virome and coinfection. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The purpose of this page is to consolidate information that I trust, with the hope that my family, friends, and neighbors may find it to be a useful resource! The questions I address are mostly questions that you have asked me - if a few of you have asked, I'm sure more are wondering about it. May this information help to demystify some of the terminology of the infectious disease world and be helpful to you, my friends. 
+
+If you've found yourself here by some miracle of the internet, know that I care about you and I care about your perspective. Please feel free to submit questions to me via Twitter or email.
