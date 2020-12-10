@@ -13,6 +13,6 @@ subtitle: 'by Dr. Adrian Paskey, emerging infectious diseases and genomics resea
 
 design:
   background:
-    color: '#090a0b'
+    color: 'black'
     text_color_light: true
 ---
