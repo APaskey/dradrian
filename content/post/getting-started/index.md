@@ -1,20 +1,15 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
-authors:
-- admin
-- 吳恩達
+title: About mRNA Vaccines
+summary: Here we describe how to add a page to your site.
+date: "2020-12-11T00:00:00Z"
 tags:
-- Academic
-- 开源
-categories:
-- Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
-featured: false
-draft: false
+- mRNA
+- vaccine
+- COVID
+reading_time: false  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -25,6 +20,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: "There are a few key points about how mRNA vaccines work that I’d like to focus on"
+  image: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

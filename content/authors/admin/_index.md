@@ -20,6 +20,8 @@ interests:
 - Emerging Infectious Diseases
 - Metagenomics
 - Biosurveillance
+- Bat viruses
+- The virosphere!
 
 #experiences:
 #- how to format?

@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "mRNA"
     category = ""
     publication_type = ""
     author = ""
