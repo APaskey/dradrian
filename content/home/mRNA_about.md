@@ -25,11 +25,12 @@ design:
     text_color_light: false
 ---
 
-1. You might have heard of “the central dogma” of molecular biology: DNA makes RNA makes protein. mRNA is the middle step of this one-way process. (learn more here: https://www.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription/a/intro-to-gene-expression-central-dogma) 
+1. You might have heard of “the central dogma” of molecular biology: DNA makes RNA makes protein. mRNA is the middle step of this one-way process. 
+    - [Learn more here](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription/a/intro-to-gene-expression-central-dogma)
 2. mRNA vaccines go into the cytoplasm (can’t integrate with DNA there) in muscle cells (not egg or sperm cells - the vaccine will not affect fertility or your babies)
 3. mRNA vaccines are NOT the same as viruses. The Moderna and Pfizer vaccines cannot leave or “infect” other cells because they do not amplify.
 4. Once your body gets the message from the mRNA vaccine, it will recycle that mRNA. That means you will only produce the protein from the mRNA vaccine for long enough for your immune system to get a “practice run” and learn how to defend against SARS-CoV-2 if it ever encounters that virus in real life.
 
 Good resources that describe how mRNA vaccines work:
-CDC https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html
-NYT https://www.nytimes.com/interactive/2020/health/moderna-covid-19-vaccine.html
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html)
+- [NYT](https://www.nytimes.com/interactive/2020/health/moderna-covid-19-vaccine.html)
