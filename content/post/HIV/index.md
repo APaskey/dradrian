@@ -1,6 +1,6 @@
 ---
 title: Did someone actually say HIV?
-summary: I read that there was HIV in a COVID vaccine. What’s going on?
+summary: "'I read that there was HIV in a COVID vaccine. What’s going on?'"
 date: "2020-12-11T00:00:00Z"
 tags:
 - mRNA
