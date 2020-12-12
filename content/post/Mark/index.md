@@ -34,7 +34,6 @@ header:
 projects: []
 ---
 
-**Here's a really nice piece by Dr. Mark Wallace.**
 Mark Wallace, M.D. is an expert in infectious disease who has published more than 200 peer-reviewed articles and is absolutely brilliant. He served his residency at the University of Washington and a fellowship in infectious disease at Naval Medical Center San Diego. He trained in tropical medicine and was a clinical professor at three medical schools. 
 
 I think this is an especially good point: *"It is worth remembering that the most poignant casualties of the Great War were the thousands killed and wounded in the six hours before the scheduled armistice at 1100 on Nov. 11, 1918. These lives were needlessly lost in a war whose outcome had already been decided. Let’s make certain that we and our families avoid a similar fate."*
