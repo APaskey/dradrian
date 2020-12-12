@@ -42,3 +42,5 @@ projects: []
 Good resources that describe how mRNA vaccines work:
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html)
 - [NYT](https://www.nytimes.com/interactive/2020/health/moderna-covid-19-vaccine.html)
+
+This post was inspired by the lovely Dr. Sasha Akins
