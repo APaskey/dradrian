@@ -1,6 +1,6 @@
 ---
 title: New technology
-summary: 'I’ve never gotten an mRNA vaccine. Why can’t we take vaccines like in the past, that we know are effective?'
+summary: "'I’ve never gotten an mRNA vaccine. Why can’t we take vaccines like in the past, that we know are effective?'"
 date: "2020-12-11T00:00:00Z"
 tags:
 - mRNA
