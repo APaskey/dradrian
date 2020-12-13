@@ -1,7 +1,7 @@
 ---
-title: "Were fetuses or embryonic stem cells involved in the making of the Moderna or Pfizer vaccines?"
-summary: 'well here's a touchy subject'
-date: "2020-12-11T00:00:00Z"
+title: Were fetuses or embryonic stem cells involved in the making of the Moderna or Pfizer vaccines?
+summary: well this is a touchy subject
+date: "2020-12-12T00:00:00Z"
 tags:
 - vaccines
 - cell lines
