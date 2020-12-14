@@ -61,8 +61,8 @@ social:
 email: "adrianpaskey@gmail.com"
 ---
 
-I'm a postdoc working in microbial genomics at the CDC's Division of Vector-Borne Diseases in Fort Collins, Colorado. My research interests include emerging infectious diseases, metagenomics, and biosurveillance. I am particularly fascinated by the virome and coinfection. 
+This blog is not affiliated with any organization and all opinions are my own. I'm a postdoc working in microbial genomics at the CDC's Division of Vector-Borne Diseases in Fort Collins, Colorado. My research interests include emerging infectious diseases, metagenomics, and biosurveillance. I am particularly fascinated by the virome and coinfection. 
 
 The purpose of this page is to consolidate information that I trust, with the hope that my family, friends, and neighbors may find it to be a useful resource! The questions I address are mostly questions that you have asked me - if a few of you have asked, I'm sure more are wondering about it. May this information help to demystify some of the terminology of the infectious disease world and be helpful to you, my friends. 
 
-If you've found yourself here by some miracle of the internet, know that I care about you and I care about your perspective. Please feel free to submit questions to me via Twitter or email. All opinions posted to this site are my own.
+If you've found yourself here by some miracle of the internet, know that I care about you and I care about your perspective. Please feel free to submit questions to me via Twitter or email. All opinions posted to this site or my Twitter are my own and do not reflect views of my employer or any other organization I am affiliated with.
