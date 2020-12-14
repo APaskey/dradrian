@@ -51,8 +51,8 @@ This is why, if you listen closely, you’ll notice experts using the language t
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="335"
-   height="188"
+   width="268"
+   height="150"
    viewBox="0 0 360.85912 201.77402"
    version="1.1"
    id="svg8"
@@ -4284,4 +4284,4 @@ This is why, if you listen closely, you’ll notice experts using the language t
 </svg>
 
 
-I included this infographic by Dr. Ian Mackay that illustrates how no single risk mitigation effort is perfect. [He’s a little grumpy sometimes, but you should definitely check out his blog if you’re interested!](https://virologydownunder.com) [I love his article on his blog about why regular ol’ soap and water is an effective coronavirus destroyer.](https://virologydownunder.com/why-does-soap-work-so-well-on-sars-cov-2/) So think about risks and do your best to layer up those protections to minimize risk for you and your family as much as possible.
+I included this infographic by Dr. Ian Mackay that illustrates how no single risk mitigation effort is perfect. If the image is cut off on your cell phone, try rotating your screen. [He’s a little grumpy sometimes, but you should definitely check out his blog if you’re interested!](https://virologydownunder.com) [I love his article on his blog about why regular ol’ soap and water is an effective coronavirus destroyer.](https://virologydownunder.com/why-does-soap-work-so-well-on-sars-cov-2/) So think about risks and do your best to layer up those protections to minimize risk for you and your family as much as possible.
