@@ -33,7 +33,7 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I get a lot of questions about how to safely do what needs to be done in life during a pandemic. 
+I get a lot of questions about how to safely do what may or may not need to be done in life during a pandemic. 
 - “How can I safely get my groceries?” 
 - “How can I safely travel on a plane?”
 - “How can I safely see my family for Christmas?”
