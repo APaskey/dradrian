@@ -3,8 +3,8 @@ title: Why the difference between “risk” and “safety” matters
 summary: I’m more then just a nitpick about words
 date: "2020-12-12T00:00:00Z"
 tags:
-- vaccines
-- ingredients
+- safety
+- risk
 - COVID
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
