@@ -34,7 +34,7 @@ header:
 projects: []
 ---
 
-I came across this great explainer on what is in in the Pfizer mRNA vaccine, and I would like to refer you to this source. The UnbiasedScience podcast has a presence on social media, and although I haven’t listened to any of their podcasts I think they seem to be doing good work! Check out their infographic and caption by following the link below. [Check out their podcast page here.](https://unbiased.buzzsprout.com)
+I came across this great explainer on what is in the Pfizer mRNA vaccine, and I would like to refer you to this source. The UnbiasedScience podcast has a presence on social media, and although I haven’t listened to any of their podcasts I think they seem to be doing good work! Check out their infographic and caption by following the link below. [Check out their podcast page here.](https://unbiased.buzzsprout.com)
 
 Here's the quick take-home ingredient list:
 1. mRNA encoding the spike protein of SARS-CoV-2
