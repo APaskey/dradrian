@@ -1,6 +1,6 @@
 ---
 title: What are vaccine rollout phases in my state?
-summary: 
+summary: I'm having FOMO
 date: "2020-12-21T00:00:00Z"
 tags:
 - vaccination rollout
