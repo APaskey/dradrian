@@ -29,11 +29,11 @@ subtitle = ""
     category = ""
     publication_type = ""
     author = ""
-    exclude_featured = false
+    exclude_featured = true
     
   [content.archive]
     enable = true
-    text = "See all blog posts"
+    text = "See more posts"
     link = "post/"
     
 [design]
@@ -44,7 +44,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
