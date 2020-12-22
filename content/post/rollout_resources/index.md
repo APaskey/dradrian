@@ -32,18 +32,18 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Many of us know friends and family who are healthcare workers and have already received their COVID vaccine! I’m thrilled for these folks and I agree that these individuals should indeed receive any protective measures available first. If you’re like me, you might have a little FOMO and be wondering when you can get vaccinated, too… I’ll include a brief summary of what you can expect and links to where you can find more info about what will happen in your state and where you fit into the rollout phases, and I’ll try to update this as I find more info or if anyone asks me about specific states I don’t already have listed here. Please let me know if a link is broken, as these sites will hopefully be updated frequently by each state.
+Many of us know friends and family who are healthcare workers and have already received their COVID vaccine! I’m thrilled for these folks and I agree that these individuals should indeed receive any protective measures available first. If you’re like me, you might have a little FOMO and be wondering when you can get vaccinated, too… I’ll include a brief summary of what you can expect and links to where you can find more info about what will happen in your state and where you fit into the rollout phases. I’ll try to update this as I find more info or if anyone asks me about specific states I don’t already have listed here. Please let me know if a link is broken, as these sites will hopefully be updated frequently by each state.
 
 Have you already been vaccinated? [I encourage you to use the V-safe app for health check-ins.](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/vsafe.html)
 
 Depending on the state, many healthcare workers will receive the vaccine through their workplace and residents/staff of congregate care settings will have their vaccinations arranged as a group through a pharmacy vendor such as Walgreens or CVS. [Find more info on long-term care facility vaccinations here.](https://www.cdc.gov/vaccines/covid-19/long-term-care/pharmacy-partnerships.html) 
 
-For the rest of us, getting vaccinated will likely look like a similar procedure for how most of us get the flu shot, regardless of whether it’s with the Pfizer, Moderna, or other vaccines that will be approved in the future. It will not cost money out of pocket.
+For the rest of us, getting vaccinated will likely look like a similar procedure for how most of us get the flu shot, regardless of what company produces the vaccine available to you. It will not cost money out of pocket.
 
 
-**Rollout info, last updated December 21, 2020**
+**Rollout info for select states where I think this post may be read. Last updated December 21, 2020**
 
-*currently prioritizing healthcare workers*
+*Currently prioritizing healthcare workers:*
 
 - [Arkansas](https://www.healthy.arkansas.gov/programs-services/topics/covid-19-vaccination-plan)
 - [Colorado](https://covid19.colorado.gov/vaccine)
