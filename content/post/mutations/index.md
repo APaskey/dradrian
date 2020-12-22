@@ -39,7 +39,7 @@ We know that SARS-CoV-2 mutates over time, and we are able to track those change
 1. There’s actually a list of mutations that the UK’s scientists are following, and you can [read about why in this recent report.](https://www.cogconsortium.uk/wp-content/uploads/2020/12/Report-1_COG-UK_20-December-2020_SARS-CoV-2-Mutations_final.pdf)
 
 
-2. The lineage the media is focused on is called B.1.1.7, and the reason it’s being tracked by scientists is that they’ve detected an uptick in cases that belong to this lineage and contain an unusual number of mutations in the part of the virus that help it get into human cells (spike). I’m not going to get too technical about the spike protein here, but please reach out to discuss if you’re curious or came across any confusing info!
+2. The lineage the media is focused on is called B.1.1.7, and the reason it’s being tracked by scientists is that they’ve detected an uptick in cases that belong to this lineage and contain an unusual number of mutations in the gene encoding the part of the virus that helps it get into human cells (spike). I’m not going to get too technical about the spike protein here, but please reach out to discuss if you’re curious or came across any confusing info!
 
 
 3. We don’t have a way to know yet if the uptick in cases is because of human behavior or because the virus has become more transmissible. If everyone made sure to wear masks, wash their hands/use hand sanitizer, stay 6 ft. apart/stayed home when possible, then it might be easier to tease out if this trend happened by luck. 
