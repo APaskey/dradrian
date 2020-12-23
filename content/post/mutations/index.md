@@ -1,6 +1,6 @@
 ---
 title: I keep seeing news articles that there are new variants. What’s the deal?
-summary: "TL; DR: I’m not super worried"
+summary: 
 date: "2020-12-22T00:00:00Z"
 tags:
 - mutations
