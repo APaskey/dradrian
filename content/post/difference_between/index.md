@@ -3,7 +3,9 @@ title: What’s the difference between the Pfizer and Moderna vaccines?
 summary: "Will I have a choice?"
 date: "2020-12-23T00:00:00Z"
 tags:
-- mutations
+- mRNA vaccine
+- Pfizer
+- Moderna
 - COVID
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
