@@ -38,7 +38,7 @@ Have you already been vaccinated? [I encourage you to use the V-safe app for hea
 
 Depending on the state, many healthcare workers will receive the vaccine through their workplace and residents/staff of congregate care settings will have their vaccinations arranged as a group through a pharmacy vendor such as Walgreens or CVS. [Find more info on long-term care facility vaccinations here.](https://www.cdc.gov/vaccines/covid-19/long-term-care/pharmacy-partnerships.html) 
 
-For the rest of us, getting vaccinated will likely look like a similar procedure for how most of us get the flu shot, regardless of what company produces the vaccine available to you. It will not cost money out of pocket.
+For the rest of us, getting vaccinated will likely look like a similar procedure for how most of us get the flu shot, regardless of what company produces the vaccine available to you. It will not cost money out of pocket. If a person is not covered by insurance or Medicare, the cost will still be covered by the US Federal Government. If you're going to a physician's office, it's worth asking if they charge a visit fee - it's probably more straightforward to get to a pharmacy if possible. 
 
 
 **Rollout info for select states where I think this post may be read. Last updated December 21, 2020**
