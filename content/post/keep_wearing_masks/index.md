@@ -1,6 +1,6 @@
 ---
 title: Why am I expected to wear a mask even after I’ve been vaccinated or had COVID?
-summary: touching on the complexities of our beautiful immune system
+summary: a little science behind the 'why'
 date: "2020-12-27T00:00:00Z"
 tags:
 - masks
