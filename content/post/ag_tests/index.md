@@ -35,7 +35,7 @@ projects: []
 ---
 My short answer is yes, they’re legit, but with the caveat that they are less sensitive. You may have noticed advertisements on the radio for rapid COVID antigen tests available in your community. The American Society for Microbiology published a great breakdown of how antigen tests work, and I encourage you to [check out their article for in-depth info.](https://asm.org/Articles/2020/August/How-the-SARS-CoV-2-EUA-Antigen-Tests-Work)
 
-Antigen tests are different from qPCR and antibody tests, as described in the bullets below. You can [check out a nice video by the FDA about different test options here.](https://www.fda.gov/consumers/consumer-updates/coronavirus-disease-2019-testing-basics#:~:text=Antigen%20tests%20usually%20provide%20results,of%20missing%20an%20active%20infection.) 
+Antigen tests are different from qPCR and antibody tests, as described in the bullets below. You can also check out a nice video by the FDA about different test options [here.](https://www.fda.gov/consumers/consumer-updates/coronavirus-disease-2019-testing-basics#:~:text=Antigen%20tests%20usually%20provide%20results,of%20missing%20an%20active%20infection.) 
 - qPCR measures viral RNA, the genetic material that encodes SARS-CoV-2
 - Antibody tests measure whether you’ve had an immune response to infection with SARS-CoV-2 (at least 1-2 weeks post-infection)
 - Antigen tests allow you to check for the presence of viral proteins
