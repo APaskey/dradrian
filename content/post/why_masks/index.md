@@ -5,6 +5,7 @@ date: "2020-12-30T00:00:00Z"
 tags:
 - masks
 - COVID
+- risk
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
