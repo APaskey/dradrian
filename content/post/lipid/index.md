@@ -37,6 +37,6 @@ As a mini-refresher, mRNA from the Moderna and Pfizer vaccines goes into the mus
 
 [Here’s an article that tries to break it down but I think it gets pretty technical](https://blogs.sciencemag.org/pipeline/archives/2021/01/11/rna-vaccines-and-their-lipids). The photo near the bottom shows how lipids naturally stack up; the fragile mRNA in the vaccine can sit protected inside that lipid bubble!
 
-[Related post on vaccine ingredients](https://dradrian.netlify.app/post/vaccine_ingredients/)
-[Biology basics of mRNA vaccines](https://dradrian.netlify.app/post/mrna/)
-[More about mRNA vaccine development](https://dradrian.netlify.app/post/new_tech/)
+- [Related post on vaccine ingredients](https://dradrian.netlify.app/post/vaccine_ingredients/)
+- [Biology basics of mRNA vaccines](https://dradrian.netlify.app/post/mrna/)
+- [More about mRNA vaccine development](https://dradrian.netlify.app/post/new_tech/)
