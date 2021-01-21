@@ -1,3 +1,4 @@
+---
 widget: tag_cloud
 headless: true  # This file represents a page section.
 
