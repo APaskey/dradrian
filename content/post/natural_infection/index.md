@@ -1,5 +1,5 @@
 ---
-title: "I'm pretty sure I have COVID already"
+title: "I'm pretty sure I had COVID already"
 summary: How can I find out? Am I immune? Should I get vaccinated?
 date: "2021-01-22T00:00:00Z"
 tags:
