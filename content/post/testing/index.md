@@ -1,7 +1,7 @@
 ---
 title: What test options are available to me, and how accurate are they?
 summary: an overview of antigen, PCR, and antibody tests
-date: "2021-01-09T00:00:00Z"
+date: "2021-01-22T00:00:00Z"
 tags:
 - PCR test
 - diagnostics
