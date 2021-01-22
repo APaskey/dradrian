@@ -33,7 +33,7 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-**Am i immune if I had COVID already?**
+**Am I immune if I had COVID already?**
 
 Before testing was widely available in the US, it’s possible you may have had COVID. Multiple variables like how much virus you were exposed to impact whether someone could still have immunity after being naturally infected (as opposed to vaccinated) in March 2020, for example. That’s one reason the vaccine is able to provide longer lasting immunity, because it directs the immune response in a controlled/predictable way to get protection (mRNA vaccines do this with two doses by [priming and boosting](https://dradrian.netlify.app/post/adaptive_immunity/)). 
 
