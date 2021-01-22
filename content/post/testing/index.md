@@ -4,7 +4,7 @@ summary: an overview of antigen, PCR, and antibody tests
 date: "2021-01-09T00:00:00Z"
 tags:
 - PCR test
-- testing
+- diagnostics
 - antibody tests
 - antigen tests
 - COVID
