@@ -46,7 +46,7 @@ PCR tests are used to check for nucleic acid from the virus in a person’s nasa
 
 *A positive PCR test* means that SARS-CoV-2 nucleic acid was detected in the nasal swab. More likely than not, this person has COVID and absolutely should isolate from others for 14 days. False positives are rare.
 
-*A negative PCR test* means that nucleic acid was not detected in the nasal swab (if someone was exposed within 5 days of the test, the could still be infected and “incubating,” but the test would not yet be positive). Always interpret a negative test with caution.
+*A negative PCR test* means that nucleic acid was not detected in the nasal swab (if someone was exposed within 5 days of the test, they could still be infected and “incubating,” but the test would not yet be positive). Always interpret a negative test with caution.
 
 
 **Antigen tests:**
@@ -62,8 +62,8 @@ PCR tests are used to check for nucleic acid from the virus in a person’s nasa
 
 Antibody tests are used to check in blood for past exposure to SARS-CoV-2. These tests have limited value because they cannot tell if you are immune to COVID in the future. It could take 1-3 weeks for an antibody test to be positive after a person is infected and mounts an immune response (develops antibodies). *Accuracy* several weeks after infection is decent and, based on what is known currently, if there is a false result it is more likely to be a false positive. [Here’s what the CDC has to say about antibody testing.](https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html#anchor_1590264273029)
 
-*A positive test* means that a person was infected with SARS-CoV-2 or cross-reacting virus in the past. It does *not* mean that a person is currently infected (but they could be).
+*A positive test* means that a person was infected with SARS-CoV-2 or a cross-reacting virus in the past. It does *not* mean that a person is currently infected (but they could be).
 
-*A negative test* means that a person either was not infected with SARS-CoV-2 (or cross-reacting virus) in the past or did not mount an immune response if they were.
+*A negative test* means that a person either was not infected with SARS-CoV-2 (or a cross-reacting virus) in the past or did not mount an immune response if they were.
 
 As I mentioned in my antigen testing [post](https://dradrian.netlify.app/post/ag_tests/), I really like the FDA’s communication on testing. [Check their site here!](https://www.fda.gov/consumers/consumer-updates/coronavirus-disease-2019-testing-basics) [And a printable flyer here!](https://www.fda.gov/media/140161/download) If you’d like to read another blog post about testing, you can check out this [blog from Harvard Medical School.](https://www.health.harvard.edu/blog/which-test-is-best-for-covid-19-2020081020734)
