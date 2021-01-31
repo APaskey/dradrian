@@ -1,6 +1,6 @@
 ---
 title: Can someone still spread SARS-CoV-2 if they’ve been vaccinated or previously infected?
-summary: Short answer: yes.
+summary: "Short answer: yes."
 date: "2021-01-31T00:00:00Z"
 tags:
 - vaccine
