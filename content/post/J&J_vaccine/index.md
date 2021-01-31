@@ -40,7 +40,7 @@ First, let’s address a word that you might be hearing about: efficacy. **Effic
 Here is a short summary of the **efficacy** of the Johnson & Johnson vaccine, which was tested in three locations (USA, Latin America, South Africa): 
 
 **After a single dose**
-- 100% protection from death due to COVID 28 days
+- 100% protection from death due to COVID after 28 days
 - 100% protection from severe COVID after 49 days **against all variants**
 - 85% protection from severe COVID after 28 days
 - 66% protection from moderate/severe COVID after 28 days
