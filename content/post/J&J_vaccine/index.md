@@ -1,5 +1,5 @@
 ---
-title: Would you take the Johnshon & Johnson vaccine?
+title: Would you take the Johnson & Johnson vaccine?
 summary: Is the efficacy good?
 date: "2021-01-31T00:00:00Z"
 tags:
