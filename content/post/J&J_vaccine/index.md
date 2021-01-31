@@ -1,6 +1,6 @@
 ---
 title: Would you take the Johnshon & Johnson vaccine?
-summary: "Is 65% efficacy good?"
+summary: Is 65% efficacy good?
 date: "2021-01-31T00:00:00Z"
 tags:
 - vaccine
