@@ -33,6 +33,8 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Big yes!
+
 First, let’s address a word that you might be hearing about: efficacy. **Efficacy** is a comparison of folks who got COVID symptoms in the placebo group vs. the vaccinated group in a clinical trial over the same time period. For example, 85% efficacy against severe COVID means someone who got that vaccine in the clinical trial was 85% less likely to get severe disease than someone who received a placebo. Even after information from vaccine trials is released, and even after vaccines receive approval, scientists continue to monitor those individuals from the trials to learn more about where the vaccines shine and how the vaccines can be improved to be more efficacious. [Math and formulas here.](https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section6.html)
 
 Here is a short summary of the **efficacy** of the Johnson & Johnson vaccine, which was tested in three locations (USA, Latin America, South Africa): 
