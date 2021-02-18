@@ -46,7 +46,7 @@ For the rest of us, the good news is that all approved vaccines perform to a hig
 - how many doses are required
 - what temperature the vaccine is stored at and for how long
 
-**Note** if you follow this link to a page that says "something went wrong," hit the blue button that says "try again" and the graphics will appear
+**Note:** if you follow this link to a page that says "something went wrong," hit the blue button that says "try again" and the graphics will appear
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I updated them already 🙂 <a href="https://t.co/oVicxpgqlP">pic.twitter.com/oVicxpgqlP</a></p>&mdash; Etienne (@eraimondeau) <a href="https://twitter.com/eraimondeau/status/1361311187007324166?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
