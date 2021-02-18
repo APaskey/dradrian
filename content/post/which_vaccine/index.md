@@ -39,7 +39,7 @@ The case where it *really* matters which COVID vaccine someone gets would be if 
 
 For the rest of us, the good news is that all approved vaccines perform to a high standard. Let’s take a look at a comparison of already-approved vaccines alongside soon-to-be approved ones. First of all, thanks to Dr. Sasha Larsen for pointing out this resource and to Dr. [@eraimondeau](https://twitter.com/eraimondeau) for creating amazing content to share! By the way, [his website is phenomenal and you should check it out.](http://lapipette.com/category/infographics.html) You can see notation on each card indicating:
 
-- general price point
+- general price point (remember it's free to anyone who gets vaccinated in the US!!)
 - type of vaccine it is (mRNA or viral vector)/how it works
 - reported efficacy against the most prevalent US/UK variants
 - reported efficacy (if available) against variants of concern
