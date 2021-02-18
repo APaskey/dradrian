@@ -1,7 +1,7 @@
 ---
 title: Should I worry about which COVID vaccine I get?
 summary: let's compare the vaccines
-date: "2021-02-06T00:00:00Z"
+date: "2021-02-17T00:00:00Z"
 tags:
 - vaccine
 - immunity
