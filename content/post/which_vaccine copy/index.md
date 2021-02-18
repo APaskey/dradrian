@@ -33,11 +33,11 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-There is no evidence that either mRNA vaccines affect fertility. While there are no formal studies on this, let’s look at some examples that will give you peace of mind.
+There is no evidence that either mRNA vaccines affect fertility. While there are no formal studies on this, let’s look at some examples that should give you peace of mind.
 
-When someone receives the Pfizer or Moderna vaccines, their immune system responds to protect against the spike protein, and remembers it should that protein be encountered again in the future (more on that [here](https://dradrian.netlify.app/post/adaptive_immunity/) and [here]).(https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/how-they-work.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fvaccines%2Fabout-vaccines%2Fhow-they-work.html) We know that pregnancy is a risk factor for more severe COVID, but an increase in miscarriage rates has not been observed.
+When someone receives the Pfizer or Moderna vaccines, their immune system responds to protect against the spike protein, and remembers it should that protein be encountered again in the future (more on that [here](https://dradrian.netlify.app/post/adaptive_immunity/) and [here).](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/how-they-work.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fvaccines%2Fabout-vaccines%2Fhow-they-work.html) We know that pregnancy is a risk factor for more severe COVID, but an increase in miscarriage rates has not been observed.
 
-Data from the [FDA briefing doc if you want it:](https://www.fda.gov/media/144434/download)
+Data from the [FDA briefing doc if you're interested:](https://www.fda.gov/media/144434/download)
 - A reproductive toxicity study using rats showed that there were no complications related to reproduction or fetal development after receiving the Moderna vaccine (Pfizer studies found similar results)
 - In the Moderna trial, there were 13 pregnancies (6 received the mRNA vaccine, 7 received the placebo). Of the **vaccinated** group, there were **no** adverse pregnancy-related events.
 
