@@ -33,11 +33,11 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-In the coming months, there will be more COVID vaccines approved in the United States. While few of us will have a choice with regard to the actual vaccine available to us in 2021, you may be wondering if one is more ideal than another. In my opinion, you don’t need to worry unless you have a specific allergy.
+In the coming months, there will be more COVID vaccines approved in the United States. While few of us will have a choice with regard to the specific vaccine available to us in 2021, you may be wondering if a particular one is the ideal. In my opinion, you don’t need to worry unless you have a specific allergy.
 
 The case where it *really* matters which COVID vaccine someone gets would be if a person has an allergy to an ingredient in one vaccine and not another. Typically those people know who they are, and their primary care physician can help them figure out what to do.
 
-For the rest of us, the good news is that all approved vaccines perform to a high standard. Let’s take a look at a comparison of already-approved vaccines alongside soon-to-be approved ones. First of all, thanks to Dr. Sasha Larsen for pointing out this resource and to Dr. @eraimondeau for creating amazing content to share! By the way, [his website is phenomenal and you should check it out.](http://lapipette.com/category/infographics.html) You can see notation on each card indicating:
+For the rest of us, the good news is that all approved vaccines perform to a high standard. Let’s take a look at a comparison of already-approved vaccines alongside soon-to-be approved ones. First of all, thanks to Dr. Sasha Larsen for pointing out this resource and to Dr. [@eraimondeau](https://twitter.com/eraimondeau) for creating amazing content to share! By the way, [his website is phenomenal and you should check it out.](http://lapipette.com/category/infographics.html) You can see notation on each card indicating:
 
 - general price point
 - type of vaccine it is (mRNA or viral vector)/how it works
@@ -45,6 +45,8 @@ For the rest of us, the good news is that all approved vaccines perform to a hig
 - reported efficacy (if available) against variants of concern
 - how many doses are required
 - what temperature the vaccine is stored at and for how long
+
+**Note** if you follow this link to a page that says "something went wrong," hit the blue button that says "try again" and the graphics will appear
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I updated them already 🙂 <a href="https://t.co/oVicxpgqlP">pic.twitter.com/oVicxpgqlP</a></p>&mdash; Etienne (@eraimondeau) <a href="https://twitter.com/eraimondeau/status/1361311187007324166?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
