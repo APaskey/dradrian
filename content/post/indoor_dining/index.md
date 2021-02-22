@@ -43,7 +43,7 @@ The highest transmission risk is in poorly-ventilated indoor spaces where there 
 
 One way to lower the risk of transmission if indoors is to improve air ventilation by opening windows and doors! The Public Health England Transmission Group complied the table below [(full report here)](https://www.gov.uk/government/publications/phe-factors-contributing-to-risk-of-sars-cov2-transmission-in-various-settings-26-november-2020) and I think it gives some great cues to what makes a setting more or less risky.
 
-<img src= "transmissino_risk”.png>
+<img src= "transmission_risk”.png>
 
 **2) Outdoors in open air**
 
@@ -56,16 +56,16 @@ It’s cold in Colorado, y’all, and those restaurant tents seem to be everywhe
 When it comes to outdoor dining, I’ve seen lots of creative combos from restaurants. The level of environmental risk (remember spacing, mask compliance, time spent together, etc. are all other factors that matter, too) directly correlates to the **air ventilation.** How many sides are there to the enclosure? Is there a roof? The Colorado Department of Public Health and Environment created a clear set of [guidelines for dining enclosures](https://drive.google.com/file/d/1_Z0KtLhe5tBRgV835NP4qTijpQCNpOMv/view) that makes a lot of sense to me; tents are considered to have good ventilation if they meet the following criteria:
 
 - Two non-joining sides open so air can flow through it (think like a tunnel)
-- Two joined walls but no roof
+- Two joined sides but no roof
 - Roof/canopy and no walls
 - “Pod” structure that is ventilated between uses (i.e., just your household would eat in the tent and it would get aired out before the next party used it)
 
 This means the following is categorized as not having good ventilation and is comparable to dining indoors:
 
 - Three or four walls with a roof
-- Two adjacent walls closed and two adjacent walls open
+- Two adjacent walls with a roof
 
-It’s all about letting air flow. Takeout is always a fair call if what your restaurant of choice isn’t offering a dining option that makes sense for you.
+It’s all about letting air flow. Takeout is always a fair call when your restaurant of choice isn’t offering a dining option that makes sense for you.
 
 I’ll leave you with this thought: [“there’s a big difference between taking steps that *appear* to reduce COVID risk and those that *actually* reduce COVID risk.”](https://twitter.com/DLeonhardt/status/1360228687073972228) I hope you now have just a little bit more info to make sure your energy is appropriately directed (let’s face it; we’re all tired these days). Be smart and stay curious!
 
