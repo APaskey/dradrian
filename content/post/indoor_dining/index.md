@@ -60,7 +60,7 @@ When it comes to outdoor dining, I’ve seen lots of creative combos from restau
 - Roof/canopy and no walls
 - “Pod” structure that is ventilated between uses (i.e., just your household would eat in the tent and it would get aired out before the next party used it)
 
-This means the following are categorized as not having good ventilation and present comparable risk to dining indoors:
+This means the following are categorized as not having good ventilation and are about as risky as dining indoors:
 
 - Three or four walls with a roof
 - Two adjacent walls with a roof
