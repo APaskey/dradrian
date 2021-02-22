@@ -47,7 +47,7 @@ One way to lower the risk of transmission if indoors is to improve air ventilati
 
 **2) Outdoors in open air**
 
-The table above essentially posts indoors and outdoors as opposites on the risk scale. This is not to say that there is *zero* risk from interacting outdoors, as risk goes up as proximity + time increase, but it's definitely the “safest bet” if that’s what we’re going for. While viruses that make it through an infected person’s mask to potentially infect someone will hang around longer in an indoor space, the air movement outdoors diminishes that risk enormously. In fact, contact tracing studies have found that transmission risk is 20x higher indoors as compared to outdoor environments (wow! [Clinical Infectious Diseases article](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1442/5910315)).
+The table above essentially posts indoors and outdoors as opposites on the risk scale. This is not to say that there is *zero* risk from interacting outdoors, as risk goes up as proximity + time increase, but it's definitely the “safest bet” if that’s what we’re going for. Viruses that escape an infected person’s mask will hang around longer indoors than outdoors because there is substantially more air movement outdoors. In fact, contact tracing studies have found that transmission risk is 20x higher indoors as compared to outdoor environments (wow! [Clinical Infectious Diseases article](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1442/5910315)).
 
 It’s cold in Colorado, y’all, and those restaurant tents seem to be everywhere…here’s what I found on the tent situation: 
 
@@ -60,7 +60,7 @@ When it comes to outdoor dining, I’ve seen lots of creative combos from restau
 - Roof/canopy and no walls
 - “Pod” structure that is ventilated between uses (i.e., just your household would eat in the tent and it would get aired out before the next party used it)
 
-This means the following is categorized as not having good ventilation and is comparable to dining indoors:
+This means the following are categorized as not having good ventilation and present comparable risk to dining indoors:
 
 - Three or four walls with a roof
 - Two adjacent walls with a roof
