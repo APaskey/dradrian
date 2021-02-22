@@ -43,7 +43,7 @@ The highest transmission risk is in poorly-ventilated indoor spaces where there 
 
 One way to lower the risk of transmission if indoors is to improve air ventilation by opening windows and doors! The Public Health England Transmission Group complied the table below [(full report here)](https://www.gov.uk/government/publications/phe-factors-contributing-to-risk-of-sars-cov2-transmission-in-various-settings-26-november-2020) and I think it gives some great cues to what makes a setting more or less risky.
 
-<img src= "transmission_risk”.png>
+<img src= transmission_risk.png>
 
 **2) Outdoors in open air**
 
