@@ -1,6 +1,6 @@
 ---
 title: Is eating in an outdoor enclosure/tent more like being indoors or outdoors?
-summary: indoor vs outdoor vs tent/exclosure
+summary: indoor vs outdoor vs tent/enclosure
 date: "2021-02-21T00:00:00Z"
 tags:
 - risk
