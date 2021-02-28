@@ -34,7 +34,7 @@ header:
 projects: []
 ---
 
-Now that the Johnson & Johnson vaccine has been granted an Emergency Use Authorization (EUA) in the US, I’m excited to see our # of people vaccinated per day increase! This is definitely great news in my opinion, because it means that more people who want the vaccine will be able to access it. Here’s the take-home I want you to remember: **this vaccine protected 100% against death from COVID in the trial.** I’ll break this post into 3 sections: 1) What is it?, 2) The outcome of the trial, 3) The logistics of getting this shot
+Now that the Johnson & Johnson vaccine has been granted an Emergency Use Authorization (EUA) in the US, I’m excited to see our # of people vaccinated per day increase! This is definitely great news in my opinion, because it means that more people who want the vaccine will be able to access it. Here’s the take-home I want you to remember: **this vaccine protected 100% against death from COVID in the trial.** I’ll break this post into 3 sections: 1) What is it?; 2) The outcome of the trial; 3) The logistics of getting this shot
 
 **1) What is it?**
 
