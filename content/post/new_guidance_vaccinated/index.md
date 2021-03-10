@@ -49,6 +49,6 @@ It looks like the probability of becoming infected with SARS-CoV-2 post-vaccinat
 2. Prevention methods (masks, physical distance, good ventilation) are required when fully vaccinated people interact with others in the following scenarios: 
 	- with high-risk, unvaccinated households 
 	- with households who interact with high-risk people (at work, for example)
-	- if interacting with **multiple** unvaccinated households (regardless of risk category).
+	- if interacting with **multiple** unvaccinated households (regardless of risk category)
 
 Basically, the guidance is trying to accommodate the fact that the risk of being infectious after being vaccinated is *low* but **not** zero. Be smart, and give (vaccinated) grandma a hug for me if you get to see her.
