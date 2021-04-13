@@ -41,7 +41,7 @@ The FDA has defined the evaluation window for symptoms following vaccination bas
 
 # How are concerns about long-term side effects from the COVID vaccines being handled in the US?
 
-Though rare, six cases of blood clots have occurred in women who received the Johnson & Johnson vaccine in the US (for context, ~7 million doses of this vaccine have been given already in the US). The clots appeared within two weeks following vaccination. These blood clots are the reason that distribution of the Johnson & Johnson vaccine will be paused until FDA can review data and evaluate risk (for example, I think they will ask questions to see if the observed blood clot cases might actually be due to the high risk for blood clots in women taking oral contraceptives). Notably, this possible clotting risk is not associated with with the Pfizer or Moderna vaccines. So, what data are being collected to evaluate long-term risk?
+Though rare, six cases of blood clots have occurred in women who received the Johnson & Johnson vaccine in the US (for context, ~7 million doses of this vaccine have been given already in the US). The clots appeared within two weeks following vaccination. These blood clots are the reason that distribution of the Johnson & Johnson vaccine will be paused until FDA can review data and evaluate risk (for example, I think they will ask questions to see if the observed blood clot cases might actually be due to the high risk for blood clots in women taking oral contraceptives). Notably, this possible clotting risk is not associated with the Pfizer or Moderna vaccines. So, what data are being collected to evaluate long-term risk?
 
 - The FDA has data from trials conducted prior to Emergency Use Authorization, where symptoms of trial participants were followed for months following vaccination
 - Adverse events are reported by health care providers to the Vaccine Adverse Event Reporting System (In the case of unusual adverse events, CDC/FDA have access to case information. For example, they will review the cases of the women who experienced blood clots following vaccination to assess potential significance)
@@ -49,7 +49,7 @@ Though rare, six cases of blood clots have occurred in women who received the Jo
 
 # Has vaccination ever been paused, like the Johnson & Johnson COVID vaccine is being paused right now?
 
-Yes; one example is the rotavirus vaccine. This vaccine was recommended to be paused in 2010 so  FDA could evaluate concerns that arose during use, despite there being no evidence at the time of any health risk to children. FDA gathered data, got input from external experts, and had a public hearing of issues (sound familiar?). Vaccination was resumed once it was concluded that the vaccine was safe for kids.
+Yes; one example is the rotavirus vaccine (given to children). This vaccine was recommended to be paused in 2010 so  FDA could evaluate concerns that arose during use, despite there being no evidence at the time of any health risk to children. FDA gathered data, got input from external experts, and had a public hearing of issues (sound familiar?). Vaccination was resumed once it was concluded that the vaccine was safe for kids.
 
 Most of all, I want to tell you that the most notable long-term effect of the vaccine is **immunity!!** These vaccines are approved for use because they work, and the benefits of protection far outweigh the risk of side effects. I hope this helps address your concerns about how long-term vaccine side effects are evaluated. Please reach out with questions!
 
