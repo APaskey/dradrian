@@ -1,0 +1,61 @@
+---
+title: How are long-term effects of the COVID vaccines evaluated?
+summary: ft. blood clot risk
+date: "2021-04-13T00:00:00Z"
+tags:
+- risk
+- vaccine
+- COVID
+reading_time: false  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 1
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+Let’s take a look at how long-term effects are defined for vaccines that have been around for a while, as well as what data we have from the COVID vaccines with regard to long-term effects. “Long-term” can be defined as a side effect that appears after within six weeks following vaccination (but the symptom/effect could last longer than that). Most side effects occur within days after receiving the vaccine and are obvious: fever, sore arm, headache, rash, for example. 
+
+# “Long-term effects” in pre-COVID vaccines
+
+The FDA has defined the evaluation window for symptoms following vaccination based on the timing of when long-term effects from other vaccines may occur. Some examples of rare effects that can appear more than a few days (but not more than 8 weeks) following vaccination. One example is the **Yellow fever vaccine.** Infants who receive this vaccine may develop brain or spinal cord swelling ~2-3 weeks following vaccination. However, infants are not recommended to receive the yellow fever vaccine. Another example of a vaccine with possible (low-risk) “long-term” side effects is the **MMR vaccine:** there is a risk for thrombocytopenia (temporary decrease in platelets) ~1-3 weeks after receiving the vaccine (in 1/30,000 people). The CDC has a list of all known side effects for vaccines on [this webpage.](https://www.cdc.gov/vaccines/vac-gen/side-effects.htm) Serious side effects from vaccines are rare and the benefit of vaccination must outweigh the risk of the side effect in order for it to be recommended for use in the US.
+
+# How are concerning long-term effects in the COVID vaccines being handled in the US?
+
+Though rare, six cases of blood clots have arisen in women who received the Johnson & Johnson vaccine in the US (for context, ~7 million doses of this vaccine have been given already in the US). The clots appeared within two weeks following vaccination. This is the reason that distribution of this specific vaccine will be paused until FDA can review data and evaluate risk (for example, they will ask questions to see if these data might actually be due to the high risk for blood clots in women taking oral contraceptives). This is not associated with with the Pfizer or Moderna vaccines. So, what data is being collected to evaluate long-term risk?
+
+- The FDA has data from trials conduced prior to Emergency Use Authorization, where symptoms of trial participants were followed for months following vaccination
+- Adverse events are reported by health care providers to the Vaccine Adverse Event Reporting System (In the case of unusual adverse events, CDC/FDA have access to case information. For example, they will review the cases for the women who experienced blood clots following vaccination in order to assess potential significance)
+- The CDC’s V-safe self-reporting app has been used to collect symptom information from the general public as they choose to report any associated symptoms following vaccination
+
+# Has vaccination ever been paused, like the Johnson & Johnson COVID vaccine is being paused right now?
+
+Yes, one example is the rotavirus vaccine, which was recommended to be paused in 2010 so FDA could evaluate concerns that arose during use despite there being no evidence at the time of any health risk to children. FDA gathered data, got input from external experts, and had a public hearing of issues (sound familiar?). Vaccination was resumed once it was concluded that the vaccine was safe for kids.
+
+Most of all, I want to tell you that the most notable long-term effect of the vaccine is **immunity!!** I hope this helps address your concerns in general about how long-term vaccine side effects are evaluated. Please reach out with questions!
+
+
+[Children’s Hospital of Philadelphia has a great article](https://www.chop.edu/news/long-term-side-effects-covid-19-vaccine) that helped me write this post
+
+[CHOP also has a video explainer about it](https://www.chop.edu/centers-programs/vaccine-education-center/video/what-are-the-long-term-side-effects-of-covid-19-vaccine)
+
+[This article](https://edwardnirenberg.medium.com/long-term-effects-of-covid-19-vaccines-should-you-be-worried-c3c3a547b565) was written last summer and I think it touches on important concepts and is a good read.
