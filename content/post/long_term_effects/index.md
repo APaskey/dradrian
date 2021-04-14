@@ -33,7 +33,7 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Let’s take a look at how long-term effects are defined for vaccines that have been around for a while, as well as what data we have from the COVID vaccines with regard to long-term effects. “Long-term” can be defined as a side effect that appears after six weeks following vaccination (though the effect/symptoms could last longer than that). Most side effects occur within days after receiving the vaccine and are obvious: fever, sore arm, headache, rash, for example. 
+Let’s take a look at how long-term effects are defined for vaccines that have been around for a while, as well as what data we have from the COVID vaccines with regard to long-term effects. “Long-term” could be used to describe any side effect that appears more than several days following vaccination (though the effect/symptoms could last longer than that). Most side effects occur within days after receiving the vaccine, resolve within days, and are obvious: fever, sore arm, headache, rash, for example. 
 
 # “Long-term effects” in pre-COVID vaccines
 
@@ -43,7 +43,7 @@ The FDA has defined the evaluation window for symptoms following vaccination bas
 
 Though rare, six cases of blood clots have occurred in women who received the Johnson & Johnson vaccine in the US (for context, ~7 million doses of this vaccine have been given already in the US). The clots appeared within two weeks following vaccination. These blood clots are the reason that distribution of the Johnson & Johnson vaccine will be paused until FDA can review data and evaluate risk (for example, I think they will ask questions to see if the observed blood clot cases might actually be due to the high risk for blood clots in women taking oral contraceptives). Notably, this possible clotting risk is not associated with the Pfizer or Moderna vaccines. So, what data are being collected to evaluate long-term risk?
 
-- The FDA has data from trials conducted prior to Emergency Use Authorization, where symptoms of trial participants were followed for months following vaccination
+- The FDA can further examine data from trials conducted prior to Emergency Use Authorization, where symptoms of trial participants were followed for months following vaccination
 - Adverse events are reported by health care providers to the Vaccine Adverse Event Reporting System (In the case of unusual adverse events, CDC/FDA have access to case information. For example, they will review the cases of the women who experienced blood clots following vaccination to assess potential significance)
 - The CDC’s V-safe self-reporting app has been used to collect self-reported symptom information from the general public following vaccination
 
