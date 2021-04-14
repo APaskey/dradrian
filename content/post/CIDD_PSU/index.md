@@ -1,5 +1,5 @@
 ---
-title: Penn State's COVID FAQ page is super
+title: We are...impressed by Penn State's COVID FAQ page
 summary: questions answered by Center for Infectious Disease Dynamics faculty
 date: "2021-04-14T00:00:00Z"
 tags:
