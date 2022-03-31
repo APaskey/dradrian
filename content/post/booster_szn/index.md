@@ -34,7 +34,7 @@ projects: []
 ---
 On March 29, 2022, [FDA authorized booster shots for anyone over the age of 50 or who is immunocompromised](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-second-booster-dose-two-covid-19-vaccines-older-and) if it’s been 4 months (or longer) since their last booster. This means if you got your booster as soon as it was recommended in fall 2021 and you’re over 50, it’s time to schedule another booster. The booster can be Pfizer or Moderna.
 
-Follow this [handy table](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html#:~:text=After%20this%20time%20period%2C,considered%20up%20to%20date.) on the CDC’s website for guidance on which booster is recommended, when it is recommended you boost, and what type of booster.
+Follow this [handy table](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html#:~:text=After%20this%20time%20period%2C,considered%20up%20to%20date.) on the CDC’s website for guidance on which type of booster is recommended based on your COVID-19 vaccine history.
 
 **What was the evidence behind this recommendation?**
 
