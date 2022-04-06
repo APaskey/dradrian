@@ -32,11 +32,11 @@ header:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-“Moderna is seeking approval for the under 5 age group, but I saw a headline that made it sound like the vaccine wasn’t that effective. What’s the point if kids are so unlikely to get very sick? What if my kids already had COVID?”
+“Moderna is seeking approval for the under 5 age group, but I saw a headline that made it sound like the vaccine wasn’t that effective. What’s the point if kids are unlikely to get very sick? What if my kids already had COVID?”
 
-I intend to update this post or publish a new one as I have more information available to me, but for now I will share a few popular articles/threads related to this topic that caught my interest:
+I intend to update this post or publish a new one as I have more information and time to write, but for now I will share a few popular articles/threads related to this topic that caught my interest:
 
 
 1. [The Atlantic](https://www.theatlantic.com/health/archive/2022/03/how-effective-are-kids-covid-vaccines/629419/) on how vaccine efficacy data looks different in a trial conducted during the Omicron wave vs. an earlier wave
 2. [A thread](https://twitter.com/greg_howard/status/1509794630681780225?s=27&t=JJH4jUR8Z8lLEpuq8pbctw) by a parent weighing the risks associated with COVID-19 infection in kids
-3. A [Times](https://time.com/6163099/covid-19-vaccines-children-setting-record-straight/) article discussing risks
+3. A [Time](https://time.com/6163099/covid-19-vaccines-children-setting-record-straight/) article discussing risks
