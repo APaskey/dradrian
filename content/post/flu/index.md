@@ -1,6 +1,6 @@
 ---
 title: Curious about what's going on with flu?
-summary: ""
+summary: "a not flu season flu season"
 date: "2022-04-20T00:00:00Z"
 tags:
 - COVID
