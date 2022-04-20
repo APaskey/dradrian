@@ -49,7 +49,7 @@ Let me start with this: public perception about wearing a mask (fun fact, the fa
 
 *Scenario 2: their people are at risk*
 - If someone lives with, works with, or otherwise cares for someone who is at greater risk of having a terrible time with COVID (think elderly, immunocompromised, or unvaccinated adults), they may choose to mask to avoid bringing disease to those in their work/personal circles. 
--If someone cares for children under 5 years old, they may choose to mask to reduce the risk of spreading COIVD to them. Unfortunately, children under 5 are still without any COVID vaccine options.
+- If someone cares for children under 5 years old, they may choose to mask to reduce the risk of spreading COIVD to them. Unfortunately, children under 5 are still without any COVID vaccine options.
 
 …or maybe they don’t have a reason one way or the other and *you* getting curious and asking the question (kindly! not shaming!) could help them think it through.
 
