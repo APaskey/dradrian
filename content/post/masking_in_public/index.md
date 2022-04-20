@@ -36,7 +36,7 @@ Let me start with this: public perception about wearing a mask (fun fact, the fa
 
 **Let’s look at reasons why a person’s assessment of COVID risk may lead them to choose not to mask at Aldi (aka anywhere in public) right now:**
 
--They may have recently recovered from COVID. Very recently-infected individuals are unlikely to get reinfected within a 90-day window (could be shorter). Someone who has had COVID within this window may choose not to mask because they assume (probably correctly) that they are not at risk of infecting/becoming infected with the currently-circulating predominant variant of SARS-CoV-2. Note that having COVID does not provide long-term protection from subsequent reinfection with SARS-CoV-2.
+- They may have recently recovered from COVID. Very recently-infected individuals are unlikely to get reinfected within a 90-day window (could be shorter). Someone who has had COVID within this window may choose not to mask because they assume (probably correctly) that they are not at risk of infecting/becoming infected with the currently-circulating predominant variant of SARS-CoV-2. Note that having COVID does not provide long-term protection from subsequent reinfection with SARS-CoV-2.
 
 - Case rates in their community may be very low. This is tricky because “low risk” could be defined different ways. If you’re interested on info and data governments/businesses use to define levels for risk of infection (or what I look for when making decisions for myself), please reach out.
 
