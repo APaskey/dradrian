@@ -6,11 +6,11 @@ title: Adrian Paskey
 superuser: true
 
 # Role/position
-role: Senior Associate/Scientist
+role: Sequencing Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Reckitt
+- name: Leidos, NMRC Biological Defense Research Directorate
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
