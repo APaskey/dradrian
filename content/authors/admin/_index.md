@@ -9,9 +9,9 @@ superuser: true
 role: Sequencing Research Scientist
 
 # Organizations/Affiliations
-organizations:
-- name: Leidos, NMRC Biological Defense Research Directorate
-  url: ""
+#organizations:
+#- name: Leidos, NMRC Biological Defense Research Directorate
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Emerging infectious diseases and genomics researcher
