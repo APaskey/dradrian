@@ -39,9 +39,11 @@ As you’ve likely heard by now, bivalent booster shots have been approved in th
 Go for it! Personally, I got my booster and plan to get my flu shot soon. Australia had a notable flu season, which means we will probably have a gnarly one in the US, too. According to the [report from Australia’s health department](https://www1.health.gov.au/internet/main/publishing.nsf/Content/cda-surveil-ozflu-flucurr.htm), kids and teens were the most at-risk during their flu season in 2022. Remember, if you’re over 65 you get the high-dose flu shot! I definitely recommend being up-to-date on both flu and COVID vaccines.
 
 **Does it matter whether my booster is Pfizer or Moderna?**
+
 You can receive either Pfizer or Moderna boosters regardless of the other shots in your COVID vaccine series. There is evidence that switching from Pfizer to Moderna (or Moderna to Pfizer, etc.) for boosters results in protection that is just as good as sticking with the same series.
 
 **How long after my last booster or COVID symptoms should I wait before getting this new booster?**
+
 You can [take the quiz on this page](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html) to find out if you are considered up to date! You may want to consider scheduling your booster about 3 months after when your COVID symptoms began or you got your last booster to help your immune system make the most of the boost. The CDC says “People who already had COVID-19 and do not get vaccinated after their recovery are [more likely to get COVID-19 again](https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e1.htm?s_cid=mm7032e1_e&ACSTrackingID=USCDC_921-DM63289&ACSTrackingLabel=MMWR%20Early%20Release%20-%20Vol.%2070%2C%20August%206%2C%202021&deliveryName=USCDC_921-DM63289) than those who get vaccinated after their recovery.”
 
 
